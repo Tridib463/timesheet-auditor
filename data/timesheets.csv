@@ -1,0 +1,26 @@
+employee_id,employee_name,work_date,engagement_code,hours,description,weekend_approved
+E101,Asha Sen,2026-11-02,ENG-1001,8,Audit fieldwork for retail bank client,N
+E101,Asha Sen,2026-11-03,ENG-1001,8,Audit fieldwork for retail bank client,N
+E101,Asha Sen,2026-11-04,ENG-1001,8,Audit fieldwork for retail bank client,N
+E101,Asha Sen,2026-11-05,ENG-1001,8,Audit fieldwork for retail bank client,N
+E101,Asha Sen,2026-11-06,ENG-1001,8,Audit fieldwork for retail bank client,N
+E102,Rohan Das,2026-11-02,ENG-1002,8,Cloud migration sprint development,N
+E102,Rohan Das,2026-11-03,ENG-1002,8,Cloud migration sprint development,N
+E102,Rohan Das,2026-11-04,ENG-1002,8,Cloud migration sprint development,N
+E102,Rohan Das,2026-11-05,ENG-1002,8,Cloud migration sprint development,N
+E103,Meera Iyer,2026-11-02,ENG-2001,8,Tax advisory data reconciliation,N
+E103,Meera Iyer,2026-11-03,ENG-9999,8,Tax advisory data reconciliation,N
+E103,Meera Iyer,2026-11-04,ENG-2001,8,Tax advisory data reconciliation,N
+E103,Meera Iyer,2026-11-05,ENG-2001,8,Tax advisory data reconciliation,N
+E103,Meera Iyer,2026-11-06,ENG-2001,8,Tax advisory data reconciliation,N
+E104,Karan Shah,2026-11-02,ENG-3001,8,Internal training and onboarding,N
+E104,Karan Shah,2026-11-03,ENG-3001,8,Internal training and onboarding,N
+E104,Karan Shah,2026-11-04,ENG-3001,8,Internal training and onboarding,N
+E104,Karan Shah,2026-11-05,ENG-3001,8,,N
+E104,Karan Shah,2026-11-06,ENG-3001,8,Internal training and onboarding,N
+E101,Asha Sen,2026-11-04,ENG-1002,5,Extra cloud migration support work,N
+E102,Rohan Das,2026-11-07,ENG-1002,5,Weekend production release support,N
+E101,Asha Sen,2026-11-05,ENG-1001,eight,Audit fieldwork day,N
+E103,Meera Iyer,2026-13-45,ENG-2001,8,Tax advisory work,N
+E104,Karan Shah,2026-11-06,ENG-3001,-3,Internal training,N
+,Unknown,2026-11-06,ENG-3001,8,Missing employee id row,N

@@ -1,0 +1,7 @@
+{
+  "max_daily_hours": 12,
+  "min_description_length": 10,
+  "valid_engagement_codes": ["ENG-1001", "ENG-1002", "ENG-2001", "ENG-3001"],
+  "holidays": [],
+  "severity_weights": {"HIGH": 5, "MEDIUM": 3, "LOW": 1}
+}
